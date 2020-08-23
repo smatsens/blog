@@ -78,7 +78,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 .header-bg {
   padding: 170px 0 140px;
-  background-image: url('../images/header-background.png');
+  background-image: url('../images/header-background.webp');
   background-size: cover;
   background-repeat: no-repeat;
   background-position: left bottom;
