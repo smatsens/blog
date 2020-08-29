@@ -65,9 +65,7 @@ a:hover{
 	left: 50%;
 }
 
-.input-div.focus:before, .input-div.focus:after{
-	width: 50%;
-}
+
 
 .input-div.focus > div > h5{
 	top: -5px;
