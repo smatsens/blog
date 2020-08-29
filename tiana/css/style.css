@@ -36,10 +36,14 @@ body{
 	justify-content: flex-start;
 	align-items: center;
 	text-align: center;
+	width: 100%;
+	float:right;
+	margin-left: 150px;
+
 }
 
 .img img{
-	width: 500px;
+	width: 100%;
 }
 
 form{
@@ -226,5 +230,6 @@ a:hover{
 
 	.login-content{
 		justify-content: center;
+		margin-left: auto;
 	}
 }
