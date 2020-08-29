@@ -57,13 +57,7 @@ a:hover{
 	transition: .4s;
 }
 
-.input-div:before{
-	right: 50%;
-}
 
-.input-div:after{
-	left: 50%;
-}
 
 
 
