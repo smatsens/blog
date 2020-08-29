@@ -180,7 +180,9 @@ a:hover{
 .btn:hover{
 	background-position: right;
 }
-
+.mb-icon{
+	display: none;
+}
 
 @media screen and (max-width: 1050px){
 	.container{
@@ -199,7 +201,7 @@ a:hover{
 	}
 
 	.img img{
-		width: 400px;
+		width: 350px;;
 	}
 }
 
@@ -207,11 +209,20 @@ a:hover{
 	.container{
 		grid-template-columns: 1fr;
 	}
-
-	.img{
-		display: none;
+	
+	.mb-icon{
+		display: block;
+		width: 100%;
+		height: auto;
 	}
 
+	.bg-img{
+		display: none;
+	}
+	.logo-mb{
+	
+		width: 208px;
+	}
 	.wave{
 		display: none;
 	}
