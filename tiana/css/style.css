@@ -22,7 +22,6 @@ body{
     height: 100vh;
     display: grid;
     grid-template-columns: repeat(2, 1fr);
-    grid-gap :7rem;
     padding: 0 2rem;
 }
 
@@ -209,13 +208,10 @@ a:hover{
 	
 	.container{
 		grid-template-columns: 1fr;
+		height: 1px;;
 	}
 	
-	.mb-icon{
-		display: block;
-		width: 100%;
-		height: auto;
-	}
+	
 
 	.bg-img{
 		display: none;
